@@ -1,0 +1,2 @@
+This is a thread-safe implementaion of malloc&free with two approaches: lock & thread local storage
+
